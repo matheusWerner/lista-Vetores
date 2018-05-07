@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
          double[] pesos = new double[5];
          double soma;
-         double media;
+         double media;  
 
          pesos[0] = Double.parseDouble(JOptionPane.showInputDialog("Informe o primeiro peso"));
          pesos[1] = Double.parseDouble(JOptionPane.showInputDialog("Informe o segundo peso"));

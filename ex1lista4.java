@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
          int soma = 0;
 
 
-        numeros[0] = 21;
+        numeros[0] = 21;  
         numeros[1] = 45;
         numeros[2] = 36;
         numeros[3] = 14;

@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
          nomes[0] = "Bicicleta";
          nomes[1] = "Motoca";
-         nomes[2] = "Sofá";
+         nomes[2] = "Sofá";  
          nomes[3] = "Cadeira";
          nomes[4] = "Televisão";
          nomes[5] = "Torneira";

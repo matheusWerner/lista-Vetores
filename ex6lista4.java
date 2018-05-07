@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 
          int[] idade = new int[9];
-         int maiorIdade = 0;
+         int maiorIdade = 0;  
 
 
          idade[0] = Integer.parseInt(JOptionPane.showInputDialog("Informe sua idade"));

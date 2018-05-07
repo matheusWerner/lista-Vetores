@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
      public static void main (String[] args){
 
          double[] altura = new double[4];
-         double menorAltura = 0;
+         double menorAltura = 0;  
 
          altura[0] = Double.parseDouble(JOptionPane.showInputDialog("Informe a altura da Girafa"));
          altura[1] = Double.parseDouble(JOptionPane.showInputDialog("Informe a altura da Zebra"));

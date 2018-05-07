@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 
          double[] notas = new double[4];
          double media;
-         String nome = "";
+         String nome = "";  
 
          nome = JOptionPane.showInputDialog("Informe seu nome: ");
 

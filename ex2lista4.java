@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
          nomes[3] = "Tony";
          nomes[4] = "Amarildo";
          nomes[5] = "Josué";
-         nomes[6] = "Arnaldo";
+         nomes[6] = "Arnaldo";  
          nomes[7] = "Carlos";
          nomes[8] = "Fernando";
          nomes[9] = "Mario";
